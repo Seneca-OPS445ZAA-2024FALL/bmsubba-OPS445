@@ -41,7 +41,7 @@ OK
 OPS445 Lab Report - System Information for running ./CheckLab1.py
 =================================================================
     User login name: bmsubba
-    Git Email: budhisubba7@gmail.com.ca
+    Git Email: bmsubba@myseneca.ca
     Linux system name: mypc
     Python executable: /usr/bin/python3
     Python version:  3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]

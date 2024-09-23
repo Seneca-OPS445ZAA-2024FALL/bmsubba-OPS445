@@ -12,7 +12,7 @@ def cm_to_inches(cm):
 
 # Main program
 def main():
-    print("Welcome to the Conversion Tool!")
+    print("Hello World! Welcome to the world of Conversion Tool!")
     print("Choose a conversion option:")
     print("1. Inches to Centimeters")
     print("2. Centimeters to Inches")

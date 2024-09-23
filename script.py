@@ -1,6 +1,6 @@
 # Conversion factors
 INCH_TO_CM = 2.54
-CM_TO_INCH = 1 / INCH_TO_CM
+CM_TO_INCH = 1/INCH_TO_CM
 
 # Function to convert inches to centimeters
 def inches_to_cm(inches):

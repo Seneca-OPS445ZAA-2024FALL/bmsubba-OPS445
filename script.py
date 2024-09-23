@@ -28,5 +28,3 @@ def main():
     else:
         print("Invalid choice. Please select 1 or 2.")
 
-if _name_ == "_main_":
-    main()
